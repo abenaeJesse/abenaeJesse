@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Front-end works and Unity/Unreal video game projects**
 
-- 👨‍💻 All of my projects are available at [https://msx-r.github.io/portfolio/](https://msx-r.github.io/portfolio/)
 
 - 💬 What do I like to do ? **I like to create things, I always have plenty of ideas for that! I have always loved to create logos, communication supports, website models, stories... So much so that during a hackathon, I decided to create a prototype of a 2D video game under Unity using many ideas that came to my mind.**
 
